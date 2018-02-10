@@ -1,2 +1,2 @@
-This is the copy of a Google Homepage.
+This is a replica of the Google Homepage.
 From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
